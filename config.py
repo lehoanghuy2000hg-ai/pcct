@@ -1,4 +1,5 @@
 from pathlib import Path
+from config import PRICE_FILE
 
 # ===========================
 # THƯ MỤC GỐC
